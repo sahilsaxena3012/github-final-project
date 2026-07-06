@@ -1,2 +1,2 @@
 # Contributing Guidelines
-Fork the repo, create a branch, and submit a pull request.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
